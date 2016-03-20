@@ -17,6 +17,9 @@
   "author": "Dimitar Danailov",
   "license": "MIT",
   "dependencies": {
-    "azure-iothub": "^1.0.2"
+    "amqp10": "^3.1.0",
+    "azure-iot-device-amqp": "^1.0.2",
+    "azure-iothub": "^1.0.2",
+    "bluebird": "^3.3.4"
   }
 }
