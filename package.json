@@ -1,0 +1,22 @@
+{
+  "name": "iothub",
+  "version": "1.0.0",
+  "description": "Hello world for Azure IoT Hub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "IoT",
+    "IoT",
+    "Hub",
+    "IoT",
+    "Azure",
+    "Hub"
+  ],
+  "author": "Dimitar Danailov",
+  "license": "MIT",
+  "dependencies": {
+    "azure-iothub": "^1.0.2"
+  }
+}
